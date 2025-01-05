@@ -1,0 +1,8 @@
+@inproceedings{REPO115,
+    author = "Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas",
+    booktitle = "Medical image computing and computer-assisted intervention--MICCAI 2015: 18th international conference, Munich, Germany, October 5-9, 2015, proceedings, part III 18",
+    organization = "Springer",
+    pages = "234--241",
+    title = "{U-net: Convolutional networks for biomedical image segmentation}",
+    year = "2015"
+}
